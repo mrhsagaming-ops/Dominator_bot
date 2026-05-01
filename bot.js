@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: '2b2t.org',
-    port: 25565,
+    host: 'GGS_op_abusers.aternos.me',
+    port: 41456,
     username: 'DominatorBot'
   });
 
