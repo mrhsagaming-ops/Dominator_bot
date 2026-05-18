@@ -5,6 +5,7 @@ function createBot() {
     host: 'Mystic-Realms.aternos.me',
     port: 38812,
     username: 'DominatorBot'
+    version: '1.21.1'
   });
 
   bot.on('spawn', () => {
